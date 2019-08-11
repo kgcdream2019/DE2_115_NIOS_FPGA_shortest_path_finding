@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sun Jul 28 20:05:01 2019
+Quartus II 32-bit Version : 11.1 Build 259 01/25/2012 SP 2 SJ Web Edition
+Revision Name : DE2_115_NIOS_HOST_MOUSE_VGA
+Top-level Entity Name : DE2_115_NIOS_HOST_MOUSE_VGA
+Family : Cyclone IV E
+Total logic elements : 10,337
+    Total combinational functions : 8,437
+    Dedicated logic registers : 5,291
+Total registers : 5291
+Total pins : 480
+Total virtual pins : 0
+Total memory bits : 2,846,688
+Embedded Multiplier 9-bit elements : 4
+Total PLLs : 1
